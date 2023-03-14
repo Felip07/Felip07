@@ -19,7 +19,7 @@ Olá! Eu sou o Felipe.<br>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=82a1493bdyc3we6t9b8r1444ycm74mqn3cnz7kbimjz860lx&rid=200w.gif&ct=g">
+  <img align="right" width="40em" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=82a1493bdyc3we6t9b8r1444ycm74mqn3cnz7kbimjz860lx&rid=200w.gif&ct=g">
 </div>
 
 ##
