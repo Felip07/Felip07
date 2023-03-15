@@ -5,7 +5,7 @@ Olá! Eu sou o Felipe.<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felip07&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip07&theme=dark&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip07&theme=dark">
 </div>
 
 
