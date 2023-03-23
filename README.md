@@ -4,22 +4,20 @@ Olá! Eu sou o Felipe.<br>
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felip07&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip07&theme=dark">
+  <img alt="Stats" height="150cm" src="https://github-readme-stats.vercel.app/api?username=Felip07&show_icons=true&theme=dark&count_private=true&hide=issues">
+  <img alt="Most-Used" height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip07&layout=compact&theme=dark">
 </div>
 
 
 <div style="display: inline_block"><br>
   <h3>Tecnologias que uso com frequência:</h3>
-  <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=82a1493bdyc3we6t9b8r1444ycm74mqn3cnz7kbimjz860lx&rid=200w.gif&ct=g">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"  />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"  />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PhP" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"  />
+  <img align="right" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=82a1493bdyc3we6t9b8r1444ycm74mqn3cnz7kbimjz860lx&rid=200w.gif&ct=g" alt="Baby-Yoda">
 </div>
 
 ##
